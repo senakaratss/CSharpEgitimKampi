@@ -28,6 +28,13 @@ Bu projede, **foreach** döngüsünü kullanarak küçük bir sınav sistemi olu
 📖 **Proje 8: Metotlar (Methods)**  
 Bu projede, C# dilinde metot kavramını öğrendim. Parametre alan, geriye değer döndüren ve döndürmeyen metotlar oluşturarak kodun tekrar kullanılabilirliğini artırdım. Ayrıca kullanıcıdan veri alarak farklı senaryolarda metot kullanımını uyguladım.  
 
+📚**Proje 9: Database Project**  
+Bu proje, ADO.NET kullanarak C# ile veri tabanındaki tabloları listelemeyi öğreten bir uygulamadır.
+Kullanıcı, kategoriler, ürünler ve siparişler gibi tabloları görüntüleyebilir ve verileri konsolda inceleyebilir.
+
+📖 **Proje 10: Database CRUD**  
+Bu projede ADO.NET kullanarak C# ile temel CRUD (Create, Read, Update, Delete) işlemlerini öğrendim. Ürün ve kategori ekleme, silme, güncelleme ve listeleme işlemleri ile veri tabanı yönetimi pratiği yaptım.
+
 ---
 
 🧠 Bu projeler sayesinde **C# temellerini** pekiştirerek, gelecekteki daha kapsamlı masaüstü ve web projelerine sağlam bir başlangıç yapmış oldum.  
